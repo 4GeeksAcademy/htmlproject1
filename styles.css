@@ -1,0 +1,43 @@
+.cardtype{
+    display: flex;
+    justify-content:space-between;
+    background-color: grey;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 60%;
+}
+body{  
+    border: 1px;
+    border-color: grey;
+    border-radius: 3px;
+}
+
+.alert{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.container{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    margin:none;
+}
+
+.card{
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    justify-content: center;
+}
+.card-footer{
+   margin: none;
+   padding: none;
+
+}
